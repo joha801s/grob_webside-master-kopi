@@ -126,6 +126,13 @@ select {
   margin: 8px 0;
   border: 1px solid rgb(82, 82, 82);
   box-sizing: border-box;
+  margin-bottom: 0px;
+}
+
+.knapp2 {
+  text-align: center;
+  background-color: rgb(231, 231, 231);
+  margin-top: 0px;
 }
 
 #formular .col1 [type="email"],
